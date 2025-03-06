@@ -28,6 +28,14 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Usage
+
+Run the simulation:
+
+```bash
+python3 main.py
+```
+
 ## Controls
 | Action               | Command                     |
 |----------------------|-----------------------------|
